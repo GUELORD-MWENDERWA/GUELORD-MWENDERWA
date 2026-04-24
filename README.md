@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 About Me<br><br>🔧 Passionate about **embedded systems** and **electronics**, I design and develop robust solutions by combining hardware and software.  <br>💻 As a versatile developer, I master multiple languages and platforms to turn ideas into real-world projects.  <br>🚀 My goal: build reliable, modular, and extensible systems tailored to industrial and educational needs.<br><br>---<br><br>## 
+# 👋 About Me<br><br>🔧 Passionate about **embedded systems** and **electronics**, I design and develop robust solutions by combining hardware and software.  <br>💻 As a versatile developer, I master multiple languages and platforms to turn ideas into real-world projects.  <br>🚀 My goal: build reliable, modular, and extensible systems tailored to industrial and educational needs.<br><br>
 
 
 ## 🌐 Socials:
