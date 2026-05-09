@@ -6,7 +6,7 @@ Passionate engineer specializing in embedded systems and artificial intelligence
 
 ---
 
-## 🎯 Technical Expertise
+## Technical Expertise
 
 ### Core Competencies
 - **Embedded Systems** : Arduino, ESP32, Real-time Microcontrollers
@@ -15,21 +15,22 @@ Passionate engineer specializing in embedded systems and artificial intelligence
 - **Access Control** : RFID, Biometrics, Hardware Authentication
 - **Telemetry & Monitoring** : Data Acquisition, Storage, Visualization
 - **Automation** : Smart Homes, Intelligent Systems, Energy Control
+ 
+## Tech Stack & Expertise
 
-## 🛠 Tech Stack 
-
-**🏗 Hardware & Embedded Systems**
+**Hardware & Embedded Systems**
 > ![C](https://shields.io) ![C++](https://shields.io) ![Arduino](https://shields.io) ![STM32](https://shields.io) ![ESP32](https://shields.io)
 
-**🧠 AI, Apps & Software**
+** AI, Apps & Software**
 > ![Python](https://shields.io) ![C#](https://shields.io) ![TensorFlow](https://shields.io) ![Django](https://shields.io) ![JavaScript](https://shields.io)
 
-**🔧 Tools & Environment**
+** Tools & Environment**
 > ![PlatformIO](https://shields.io) ![Git](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
+<br>
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
 ### 1. **Intelligent Home Automation System** 
 **Technology** : ESP32 | **Languages** : C++, PlatformIO
@@ -95,7 +96,7 @@ Passionate engineer specializing in embedded systems and artificial intelligence
 
 ---
 
-## 🏗️ Typical System Architecture
+## Typical System Architecture
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -144,25 +145,25 @@ Passionate engineer specializing in embedded systems and artificial intelligence
   <br><br>
 
   <!-- Compteur de vues fonctionnel -->
-  <img src="https://komarev.com" alt="Profile Views" />
+ ![Profile Views](https://komarev.com)
 
 </div>
 
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- ✅ Design of complete embedded systems (hardware + firmware)
-- ✅ Multi-sensor integration with real-time processing
-- ✅ Implementation of security protocols (RFID, biometrics)
-- ✅ Development of monitoring and control interfaces
-- ✅ Academic and professional AI/ML projects
-- ✅ Detailed technical documentation and maintainable source code
+- Design of complete embedded systems (hardware + firmware)
+- Multi-sensor integration with real-time processing
+- Implementation of security protocols (RFID, biometrics)
+- Development of monitoring and control interfaces
+- Academic and professional AI/ML projects
+- Detailed technical documentation and maintainable source code
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -174,7 +175,7 @@ Passionate engineer specializing in embedded systems and artificial intelligence
 
 ---
 
-## 📌 About My Projects
+## About My Projects
 
 Each project in my portfolio represents a comprehensive approach:
 
