@@ -2,50 +2,54 @@
 
 **Embedded Systems Engineer | IoT Specialist | AI Developer**
 
-Ingénieur passionné par les systèmes embarqués et l'intelligence artificielle, combinant électronique, firmware et backend pour créer des solutions robustes et évolutives. Spécialisé dans la conception de systèmes IoT pour des environnements réels.
+Passionate engineer specializing in embedded systems and artificial intelligence, combining electronics, firmware, and backend to create robust and scalable solutions. Expert in IoT, real-time systems, and intelligent automation.
 
 ---
 
-## 🎯 Expertise Technique
+## 🎯 Technical Expertise
 
-### Domaines de Compétence
-- **Systèmes Embarqués** : Arduino, ESP32, microcontrôleurs temps réel
-- **IoT & Domotique** : Capteurs, communication sans fil (RF 433MHz, RFID, WiFi)
-- **Intelligence Artificielle** : ML, Computer Vision, traitement de données
-- **Contrôle d'Accès** : RFID, biométrie, authentification matérielle
-- **Télémétrie & Monitoring** : Acquisition de données, stockage, visualisation
-- **Automatisation** : Domotique, systèmes intelligents, contrôle énergétique
+### Core Competencies
+- **Embedded Systems** : Arduino, ESP32, Real-time Microcontrollers
+- **IoT & Home Automation** : Sensors, Wireless Communication (RF 433MHz, RFID, WiFi)
+- **Artificial Intelligence** : ML, Computer Vision, Data Processing
+- **Access Control** : RFID, Biometrics, Hardware Authentication
+- **Telemetry & Monitoring** : Data Acquisition, Storage, Visualization
+- **Automation** : Smart Homes, Intelligent Systems, Energy Control
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7C02?style=for-the-badge&logo=platformio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Projets Clés
+## 🚀 Key Projects
 
-### 1. **Système de Domotique Intelligent** 
-**Technologie** : ESP32 | **Langages** : C++
-- Système complet de gestion de salle informatique
-- Contrôle d'accès RFID intégré
-- Monitoring énergétique en temps réel
-- Éclairage intelligent et sécurité
-- Interface de contrôle web
+### 1. **Intelligent Home Automation System** 
+**Technology** : ESP32 | **Languages** : C++, PlatformIO
+- Complete computer room management system
+- Integrated RFID access control
+- Real-time energy monitoring
+- Intelligent lighting and security
+- Web control interface
 
 **Repo** : [SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE](https://github.com/GUELORD-MWENDERWA/SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE)
 
 ---
 
-### 2. **Intelligence Artificielle & Computer Vision**
-**Technologie** : Python | **ML Framework** : TensorFlow/Scikit-learn
-- Projet académique LSI-IA : identification visuelle automatisée
-- Classification d'images par réseau de neurones
-- Pipeline complet : prétraitement → apprentissage → prédiction
+### 2. **Artificial Intelligence & Computer Vision**
+**Technology** : Python | **ML Framework** : TensorFlow/Scikit-learn
+- Academic LSI-IA project: Automated visual identification
+- Image classification via neural networks
+- Complete pipeline: preprocessing → learning → prediction
 
 **Repos** : 
 - [PROJET-TUTORE-LSI-IA-L1](https://github.com/GUELORD-MWENDERWA/PROJET-TUTORE-LSI-IA-L1)
@@ -53,12 +57,12 @@ Ingénieur passionné par les systèmes embarqués et l'intelligence artificiell
 
 ---
 
-### 3. **Système de Contrôle d'Accès RFID**
-**Technologie** : Arduino | **Langages** : C++
-- Serrure intelligente avec authentification RFID
-- Système de présence biométrique
-- Base de données d'accès
-- Synchronisation Google Sheets et SQL
+### 3. **RFID Access Control System**
+**Technology** : Arduino | **Languages** : C++
+- Smart lock with RFID authentication
+- Biometric attendance system
+- Access database management
+- Google Sheets and SQL synchronization
 
 **Repos** :
 - [smart-door-rfid_arduino](https://github.com/GUELORD-MWENDERWA/smart-door-rfid_arduino)
@@ -67,11 +71,11 @@ Ingénieur passionné par les systèmes embarqués et l'intelligence artificiell
 
 ---
 
-### 4. **Communication Wireless RF 433MHz**
-**Technologie** : Arduino | **Langages** : C++
-- Émetteur/Récepteur RF 4 positions
-- Protocoles de communication sans fil
-- Contrôle de périphériques à distance
+### 4. **RF 433MHz Wireless Communication**
+**Technology** : Arduino | **Languages** : C++
+- 4-Position RF Transmitter/Receiver
+- Wireless communication protocols
+- Remote device control
 
 **Repos** :
 - [emeteur_433mhz_rf-interrupteur_4_pos](https://github.com/GUELORD-MWENDERWA/emeteur_433mhz_rf-interrupteur_4_pos_arduino_code)
@@ -79,12 +83,12 @@ Ingénieur passionné par les systèmes embarqués et l'intelligence artificiell
 
 ---
 
-### 5. **Applications Web & Gestion**
-**Technologie** : Python, HTML/CSS/JavaScript
-- Système de gestion de caisse (SGIS)
-- Interface de contrôle ESP32 web
-- Calculatrice de moyenne académique
-- Interface biométrique web
+### 5. **Web Applications & Management**
+**Technology** : Python, Django, HTML/CSS/JavaScript
+- Cash register management system (SGIS)
+- ESP32 web control interface
+- Academic grade calculator
+- Biometric web interface
 
 **Repos** :
 - [sgis-v2](https://github.com/GUELORD-MWENDERWA/sgis-v2)
@@ -93,7 +97,7 @@ Ingénieur passionné par les systèmes embarqués et l'intelligence artificiell
 
 ---
 
-## 🏗️ Architecture Système Typique
+## 🏗️ Typical System Architecture
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -115,7 +119,7 @@ Ingénieur passionné par les systèmes embarqués et l'intelligence artificiell
                      │
 ┌────────────────────▼────────────────────────────┐
 │    BACKEND & DATA PROCESSING                    │
-│  (Python, Web Interface, Databases)             │
+│  (Python, Django, Web Interface, Databases)     │
 └────────────────────┬────────────────────────────┘
                      │
 ┌────────────────────▼────────────────────────────┐
@@ -126,47 +130,59 @@ Ingénieur passionné par les systèmes embarqués et l'intelligence artificiell
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUELORD-MWENDERWA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=GUELORD-MWENDERWA&theme=dark&hide_border=false)
+### GitHub Profile Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUELORD-MWENDERWA&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GUELORD-MWENDERWA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=GUELORD-MWENDERWA&theme=radical&hide_border=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GUELORD-MWENDERWA&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+### Profile Views
+[![Profile Views](https://visitcount.itsvg.in/api?id=GUELORD-MWENDERWA&icon=6&color=6)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
 
-## 🏆 Réalisations
+## 🏆 Achievements
 
-- ✅ Conception de systèmes complets embarqués (hardware + firmware)
-- ✅ Intégration multi-capteurs avec traitement temps réel
-- ✅ Implémentation de protocoles de sécurité (RFID, biométrie)
-- ✅ Développement d'interfaces de monitoring et de contrôle
-- ✅ Projets académiques et professionnels en IA/ML
-- ✅ Documentation technique détaillée et code source maintenable
+- ✅ Design of complete embedded systems (hardware + firmware)
+- ✅ Multi-sensor integration with real-time processing
+- ✅ Implementation of security protocols (RFID, biometrics)
+- ✅ Development of monitoring and control interfaces
+- ✅ Academic and professional AI/ML projects
+- ✅ Detailed technical documentation and maintainable source code
 
 ---
 
-## 🌐 Connectez-vous
+## 🌐 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guelord-mwenderwa)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GUELORD-MWENDERWA)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guelord.mwenderwa@example.com)
 
----
-
-## 📌 À Propos de Mes Projets
-
-Chaque projet dans mon portfolio représente une approche complète :
-
-1. **Définition du problème** : Identification des besoins réels
-2. **Architecture système** : Design modulaire et évolutif
-3. **Implémentation robuste** : Code de production-ready
-4. **Documentation complète** : READMEs détaillés et schémas techniques
-5. **Optimisation** : Performance, sécurité, maintenabilité
+</div>
 
 ---
 
-**Dernière mise à jour** : Mai 2026
+## 📌 About My Projects
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=GUELORD-MWENDERWA&icon=0&color=6)](https://visitcount.itsvg.in)
+Each project in my portfolio represents a comprehensive approach:
+
+1. **Problem Definition** : Identifying real-world needs
+2. **System Architecture** : Modular and scalable design
+3. **Robust Implementation** : Production-ready code
+4. **Complete Documentation** : Detailed READMEs and technical diagrams
+5. **Optimization** : Performance, security, maintainability
+
+---
+
+**Last Updated** : May 2026
