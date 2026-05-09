@@ -1,26 +1,172 @@
-# 👋 About Me<br><br>🔧 Passionate about **embedded systems** and **electronics**, I design and develop robust solutions by combining hardware and software.  <br>💻 As a versatile developer, I master multiple languages and platforms to turn ideas into real-world projects.  <br>🚀 My goal: build reliable, modular, and extensible systems tailored to industrial and educational needs.<br><br>
+# Guelord Mwenderwa
 
+**Embedded Systems Engineer | IoT Specialist | AI Developer**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/guelord.makembe.7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/guelord-mwenderwa-751a1436a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/7fBPctIp8) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Guelord) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guelsmwenderwa@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GUELORD-MWENDERWA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GUELORD-MWENDERWA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GUELORD-MWENDERWA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GUELORD-MWENDERWA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GUELORD-MWENDERWA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Ingénieur passionné par les systèmes embarqués et l'intelligence artificielle, combinant électronique, firmware et backend pour créer des solutions robustes et évolutives. Spécialisé dans la conception de systèmes IoT pour des environnements réels.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GUELORD-MWENDERWA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Expertise Technique
+
+### Domaines de Compétence
+- **Systèmes Embarqués** : Arduino, ESP32, microcontrôleurs temps réel
+- **IoT & Domotique** : Capteurs, communication sans fil (RF 433MHz, RFID, WiFi)
+- **Intelligence Artificielle** : ML, Computer Vision, traitement de données
+- **Contrôle d'Accès** : RFID, biométrie, authentification matérielle
+- **Télémétrie & Monitoring** : Acquisition de données, stockage, visualisation
+- **Automatisation** : Domotique, systèmes intelligents, contrôle énergétique
+
+### Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projets Clés
+
+### 1. **Système de Domotique Intelligent** 
+**Technologie** : ESP32 | **Langages** : C++
+- Système complet de gestion de salle informatique
+- Contrôle d'accès RFID intégré
+- Monitoring énergétique en temps réel
+- Éclairage intelligent et sécurité
+- Interface de contrôle web
+
+**Repo** : [SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE](https://github.com/GUELORD-MWENDERWA/SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE)
+
+---
+
+### 2. **Intelligence Artificielle & Computer Vision**
+**Technologie** : Python | **ML Framework** : TensorFlow/Scikit-learn
+- Projet académique LSI-IA : identification visuelle automatisée
+- Classification d'images par réseau de neurones
+- Pipeline complet : prétraitement → apprentissage → prédiction
+
+**Repos** : 
+- [PROJET-TUTORE-LSI-IA-L1](https://github.com/GUELORD-MWENDERWA/PROJET-TUTORE-LSI-IA-L1)
+- [PROJET-TUTORE](https://github.com/GUELORD-MWENDERWA/PROJET-TUTORE)
+
+---
+
+### 3. **Système de Contrôle d'Accès RFID**
+**Technologie** : Arduino | **Langages** : C++
+- Serrure intelligente avec authentification RFID
+- Système de présence biométrique
+- Base de données d'accès
+- Synchronisation Google Sheets et SQL
+
+**Repos** :
+- [smart-door-rfid_arduino](https://github.com/GUELORD-MWENDERWA/smart-door-rfid_arduino)
+- [rfid_attendance](https://github.com/GUELORD-MWENDERWA/rfid_attendance)
+- [Bio-Metric-Attendance-System](https://github.com/GUELORD-MWENDERWA/Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase-main)
+
+---
+
+### 4. **Communication Wireless RF 433MHz**
+**Technologie** : Arduino | **Langages** : C++
+- Émetteur/Récepteur RF 4 positions
+- Protocoles de communication sans fil
+- Contrôle de périphériques à distance
+
+**Repos** :
+- [emeteur_433mhz_rf-interrupteur_4_pos](https://github.com/GUELORD-MWENDERWA/emeteur_433mhz_rf-interrupteur_4_pos_arduino_code)
+- [recepteur_433mhz_rf-interrupteur_4_pos](https://github.com/GUELORD-MWENDERWA/recepteur_433mhz_rf-interrupteur_4_pos_arduino_code)
+
+---
+
+### 5. **Applications Web & Gestion**
+**Technologie** : Python, HTML/CSS/JavaScript
+- Système de gestion de caisse (SGIS)
+- Interface de contrôle ESP32 web
+- Calculatrice de moyenne académique
+- Interface biométrique web
+
+**Repos** :
+- [sgis-v2](https://github.com/GUELORD-MWENDERWA/sgis-v2)
+- [esp32-web-control](https://github.com/GUELORD-MWENDERWA/esp32-web-control)
+- [calcul-moyenne_LSI-IA](https://github.com/GUELORD-MWENDERWA/calcul-moyenne_LSI-IA)
+
+---
+
+## 🏗️ Architecture Système Typique
+
+```
+┌─────────────────────────────────────────────────┐
+│        SENSORS & HARDWARE LAYER                 │
+│  (RFID, Biometrics, Temperature, RF 433MHz)     │
+└────────────────────┬────────────────────────────┘
+                     │
+┌────────────────────▼────────────────────────────┐
+│    EMBEDDED FIRMWARE (Arduino/ESP32)            │
+│  - Signal Processing                            │
+│  - Real-time Control                            │
+│  - Local Intelligence                           │
+└────────────────────┬────────────────────────────┘
+                     │
+┌────────────────────▼────────────────────────────┐
+│    COMMUNICATION LAYER                          │
+│  (WiFi, RF 433MHz, Serial, Web API)             │
+└────────────────────┬────────────────────────────┘
+                     │
+┌────────────────────▼────────────────────────────┐
+│    BACKEND & DATA PROCESSING                    │
+│  (Python, Web Interface, Databases)             │
+└────────────────────┬────────────────────────────┘
+                     │
+┌────────────────────▼────────────────────────────┐
+│    MONITORING & INTELLIGENCE                    │
+│  (Dashboards, Alerts, AI Analytics)             │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUELORD-MWENDERWA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=GUELORD-MWENDERWA&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GUELORD-MWENDERWA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 Réalisations
+
+- ✅ Conception de systèmes complets embarqués (hardware + firmware)
+- ✅ Intégration multi-capteurs avec traitement temps réel
+- ✅ Implémentation de protocoles de sécurité (RFID, biométrie)
+- ✅ Développement d'interfaces de monitoring et de contrôle
+- ✅ Projets académiques et professionnels en IA/ML
+- ✅ Documentation technique détaillée et code source maintenable
+
+---
+
+## 🌐 Connectez-vous
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guelord-mwenderwa)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GUELORD-MWENDERWA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guelord.mwenderwa@example.com)
+
+---
+
+## 📌 À Propos de Mes Projets
+
+Chaque projet dans mon portfolio représente une approche complète :
+
+1. **Définition du problème** : Identification des besoins réels
+2. **Architecture système** : Design modulaire et évolutif
+3. **Implémentation robuste** : Code de production-ready
+4. **Documentation complète** : READMEs détaillés et schémas techniques
+5. **Optimisation** : Performance, sécurité, maintenabilité
+
+---
+
+**Dernière mise à jour** : Mai 2026
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=GUELORD-MWENDERWA&icon=0&color=6)](https://visitcount.itsvg.in)
