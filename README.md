@@ -17,17 +17,10 @@ Passionate engineer specializing in embedded systems and artificial intelligence
 - **Automation** : Smart Homes, Intelligent Systems, Energy Control
 
 ### Tech Stack
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7C02?style=for-the-badge&logo=platformio&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+| Language | Framework | Tools |
+|----------|-----------|-------|
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) | ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7C02?style=flat&logo=platformio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
 ---
 
@@ -134,16 +127,12 @@ Passionate engineer specializing in embedded systems and artificial intelligence
 
 <div align="center">
 
-### GitHub Profile Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUELORD-MWENDERWA&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=GUELORD-MWENDERWA&theme=radical&hide_border=true)
-
-### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GUELORD-MWENDERWA&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-### Profile Views
+![GitHub Streak](https://streak-stats.demolab.com?user=GUELORD-MWENDERWA&theme=radical&hide_border=true)
+
 [![Profile Views](https://visitcount.itsvg.in/api?id=GUELORD-MWENDERWA&icon=6&color=6)](https://visitcount.itsvg.in)
 
 </div>
