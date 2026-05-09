@@ -127,13 +127,13 @@ Passionate engineer specializing in embedded systems and artificial intelligence
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guelord-mwenderwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=guelord-mwenderwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guelord-mwenderwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guelord-mwenderwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GUELORD-MWENDERWA&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=guelord-mwenderwa&theme=radical&hide_border=true)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=guelord-mwenderwa&icon=6&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com)
 
 </div>
 
