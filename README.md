@@ -4,7 +4,7 @@
 
 Engineer passionate about embedded systems and artificial intelligence, working at the intersection of electronics, firmware, and backend development. I build robust, scalable solutions for IoT, real-time systems, and intelligent automation.
 
-📍 [LinkedIn](https://linkedin.com/in/guelord-mwenderwa) · [GitHub](https://github.com/GUELORD-MWENDERWA) · ✉️ guelord.mwenderwa@example.com
+📍 [LinkedIn](https://linkedin.com/in/guelord-mwenderwa) · [GitHub](https://github.com/GUELORD-MWENDERWA) · ✉️ guelsmwenderwa@gmail.com
 
 ---
 
@@ -48,7 +48,7 @@ Engineer passionate about embedded systems and artificial intelligence, working 
 
 ## Featured Projects
 
-### 🏠 Smart Home Automation — Computer Lab
+### Smart Home Automation — Computer Lab
 **ESP32 · C++ · PlatformIO**
 Complete computer lab management system: integrated RFID access control, real-time energy monitoring, smart lighting and security, and a web-based control interface.
 📁 [SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE](https://github.com/GUELORD-MWENDERWA/SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE)
@@ -58,17 +58,17 @@ Complete computer lab management system: integrated RFID access control, real-ti
 Academic project (LSI-IA) for automated visual identification: full pipeline from preprocessing to training to prediction via image classification.
 📁 [PROJET-TUTORE-LSI-IA-L1](https://github.com/GUELORD-MWENDERWA/PROJET-TUTORE-LSI-IA-L1)
 
-### 🔐 RFID & Biometric Access Control
+### RFID & Biometric Access Control
 **Arduino · C++**
 Smart lock with RFID authentication and a biometric attendance system, syncing to Google Sheets and a SQL database.
 📁 [smart-door-rfid_arduino](https://github.com/GUELORD-MWENDERWA/smart-door-rfid_arduino) · [Bio-Metric-Attendance-System](https://github.com/GUELORD-MWENDERWA/Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase-main)
 
-### 📡 RF 433MHz Wireless Communication
+### RF 433MHz Wireless Communication
 **Arduino · C++**
 4-position RF transmitter/receiver for remote device control.
 📁 [433MHz Transmitter](https://github.com/GUELORD-MWENDERWA/emeteur_433mhz_rf-interrupteur_4_pos_arduino_code) · [433MHz Receiver](https://github.com/GUELORD-MWENDERWA/recepteur_433mhz_rf-interrupteur_4_pos_arduino_code)
 
-### 💻 Web Applications & Management
+### Web Applications & Management
 **Python · Django · JavaScript**
 Cash register management system (SGIS), ESP32 web control interface, and an academic grade calculator.
 📁 [sgis-v2](https://github.com/GUELORD-MWENDERWA/sgis-v2) · [esp32-web-control](https://github.com/GUELORD-MWENDERWA/esp32-web-control)
