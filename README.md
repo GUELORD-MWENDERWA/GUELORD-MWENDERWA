@@ -90,9 +90,44 @@ Linear models, CART trees, k-NN, k-means, PCA and a multilayer perceptron with h
 
 ---
 
+## Live platforms
+
+Production web platforms I design and maintain for organisations in the region. The source code is private; the sites are public.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://afronova-web.vercel.app/"><img src="assets/afronova.jpg" alt="Afronova website"></a>
+
+### [Afronova](https://afronova-web.vercel.app/)
+Bilingual corporate website with a member area, backed by an internal business application and a client portal.
+
+`React` `TypeScript` `Express` `Prisma` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://dtms.site/"><img src="assets/dtms.jpg" alt="DTMS website"></a>
+
+### [DTMS: Dynamic Technology Multi Services](https://dtms.site/)
+Public website, member area and training portal for a company working in IT, telecommunications, electronics and electrical installations. It runs on modules for staff, projects, clients, operations and finance.
+
+`Firebase` `Firestore` `JavaScript` `React` `Node.js`
+
+</td>
+</tr>
+</table>
+
+**[ESP32 sensor dashboard](https://domotiqueesp32-6d6d2.web.app/)**: authenticated web app that displays live readings sent by an ESP32 to the Firebase Realtime Database.
+
+These platforms are TypeScript or JavaScript codebases with role-based access control, client portals, cash and contribution management, PDF reporting and real-time updates. They are maintained with linting, strict typing, automated tests and CI.
+
+---
+
 ## Open source libraries and tools
 
-Each project implements its subject from first principles, ships with a test suite and continuous integration, and documents what has and has not been validated.
+Each project implements its subject from first principles, ships with a test suite and continuous integration, and documents what has and has not been validated. Python libraries install with `pip install git+https://github.com/GUELORD-MWENDERWA/<repo>.git`, and each release provides ready-to-use files: Python wheels, firmware images to flash, or the SQL scripts.
 
 ### Artificial intelligence, mathematics and data
 
@@ -134,12 +169,6 @@ Each project implements its subject from first principles, ships with a test sui
 | [433 MHz transmitter](https://github.com/GUELORD-MWENDERWA/emeteur_433mhz_rf-interrupteur_4_pos_arduino_code) · [receiver](https://github.com/GUELORD-MWENDERWA/recepteur_433mhz_rf-interrupteur_4_pos_arduino_code) | Four-channel RF remote with sequence numbers, burst retransmission and timed relay modes |
 | [esp32-web-control](https://github.com/GUELORD-MWENDERWA/esp32-web-control) | Mobile-first control pad for ESP32 devices on the local network |
 | [utilisation_millis_arduino_](https://github.com/GUELORD-MWENDERWA/utilisation_millis_arduino_) | Non-blocking LCD status display, a reference example of `millis()` timing |
-
----
-
-## Professional work
-
-I design and maintain private business platforms for organisations in the region. They are TypeScript monorepos with a React front end and an Express and Prisma API on PostgreSQL. They include role-based access control, client portals, cash and contribution management, PDF reporting and real-time updates, maintained with linting, strict typing, automated tests and CI. These repositories are private.
 
 ---
 
