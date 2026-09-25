@@ -1,128 +1,122 @@
 # Guelord Mwenderwa
 
-**Embedded Systems Engineer | IoT Specialist | AI Developer**
+**Embedded Systems and Full-Stack Engineer**, based in Goma, DR Congo.
 
-Engineer passionate about embedded systems and artificial intelligence, working at the intersection of electronics, firmware, and backend development. I build robust, scalable solutions for IoT, real-time systems, and intelligent automation.
+I design connected systems end to end: the electronics and firmware on the device, the backend that receives its data, and the web interfaces people use to operate it. My work focuses on access control, attendance, energy monitoring and building automation, along with business web platforms and applied machine learning.
 
-📍 [LinkedIn](https://linkedin.com/in/guelord-mwenderwa) · [GitHub](https://github.com/GUELORD-MWENDERWA) · ✉️ guelsmwenderwa@gmail.com
+I also teach embedded programming and full-stack web development, and publish the course material openly.
 
----
-
-## Core Skills
-
-- **Embedded Systems** — Arduino, ESP32, STM32, real-time microcontrollers
-- **IoT & Home Automation** — sensors, wireless communication (RF 433MHz, RFID, WiFi)
-- **Artificial Intelligence** — Machine Learning, computer vision, data processing
-- **Access Control** — RFID, biometrics, hardware authentication
-- **Backend & Web** — Python, Django, Flask, control interfaces
+[LinkedIn](https://linkedin.com/in/guelord-mwenderwa) · [Email](mailto:guelsmwenderwa@gmail.com)
 
 ---
 
-## Tech Stack
+## Areas of expertise
 
-**Embedded & Electronics**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-
-**Backend & Web**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI & Data**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Domain | Scope |
+| --- | --- |
+| Embedded systems | Arduino (AVR), ESP32, ESP8266, STM32; modular C++ firmware, finite state machines, non-blocking scheduling, EEPROM/NVS persistence, OTA updates |
+| IoT and connectivity | Wi-Fi, HTTP/REST on the device, asynchronous web servers, 433 MHz RF, UART, SPI, I2C |
+| Access control and identification | RFID (MFRC522), fingerprint sensors, keypad authentication, relay and door strike control |
+| Backend engineering | Python, Django, Django REST Framework, JWT; Node.js, Express, Prisma; PostgreSQL |
+| Front end | React, TypeScript, Vite, Tailwind CSS; HTML, CSS, JavaScript |
+| Machine learning | Feature engineering for computer vision, scikit-learn pipelines, OpenCV, NumPy, pandas |
+| Delivery | Git, CI, PlatformIO, Render, Firebase, environment-based configuration |
 
 ---
 
-## Featured Projects
+## Selected projects
 
-### Smart Home Automation — Computer Lab
-**ESP32 · C++ · PlatformIO**
-Complete computer lab management system: integrated RFID access control, real-time energy monitoring, smart lighting and security, and a web-based control interface.
-📁 [SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE](https://github.com/GUELORD-MWENDERWA/SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE)
+### Computer Lab Automation System
+[SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE](https://github.com/GUELORD-MWENDERWA/SYSTEME_DOMOTIQUE-_SALLE-_NFORMATIQUE) · ESP32, C++17, PlatformIO
 
-### 🔍 Computer Vision & AI
-**Python · TensorFlow · Scikit-learn**
-Academic project (LSI-IA) for automated visual identification: full pipeline from preprocessing to training to prediction via image classification.
-📁 [PROJET-TUTORE-LSI-IA-L1](https://github.com/GUELORD-MWENDERWA/PROJET-TUTORE-LSI-IA-L1)
+Building controller combining dual-reader RFID access with occupancy counting, PZEM-004T energy metering, daylight-aware lighting, night-time intrusion detection and eight switched loads. Operated from a web dashboard, a REST API and a serial console. Firmware split into eleven independent modules.
 
-### RFID & Biometric Access Control
-**Arduino · C++**
-Smart lock with RFID authentication and a biometric attendance system, syncing to Google Sheets and a SQL database.
-📁 [smart-door-rfid_arduino](https://github.com/GUELORD-MWENDERWA/smart-door-rfid_arduino) · [Bio-Metric-Attendance-System](https://github.com/GUELORD-MWENDERWA/Bio-Metric-Attendance-System-with-Google-Sheet-Sync-and-SQL-DataBase-main)
+### SGIS: School Management Information System
+[sgis-v2](https://github.com/GUELORD-MWENDERWA/sgis-v2) · Django REST Framework, JWT, PostgreSQL
 
-### RF 433MHz Wireless Communication
-**Arduino · C++**
-4-position RF transmitter/receiver for remote device control.
-📁 [433MHz Transmitter](https://github.com/GUELORD-MWENDERWA/emeteur_433mhz_rf-interrupteur_4_pos_arduino_code) · [433MHz Receiver](https://github.com/GUELORD-MWENDERWA/recepteur_433mhz_rf-interrupteur_4_pos_arduino_code)
+REST API for school administration: users and roles, school years, classes, students, and attendance recorded by QR code, by ESP32 RFID terminals authenticated with module tokens, or manually. Deployable to Render.
 
-### Web Applications & Management
-**Python · Django · JavaScript**
-Cash register management system (SGIS), ESP32 web control interface, and an academic grade calculator.
-📁 [sgis-v2](https://github.com/GUELORD-MWENDERWA/sgis-v2) · [esp32-web-control](https://github.com/GUELORD-MWENDERWA/esp32-web-control)
+### Smart Door Controller
+[smart-door-rfid_arduino](https://github.com/GUELORD-MWENDERWA/smart-door-rfid_arduino) · Arduino Mega, C++, Python
 
----
+Access control built around an explicit finite state machine: RFID badges stored in EEPROM, PIN-protected administration from a keypad, JSON serial protocol, and a companion desktop application (CustomTkinter GUI and CLI).
 
-## Typical System Architecture
+### Biometric Access Control
+[CONTROLE_ACCES_CAPTEUR_BIOMETRIQUE](https://github.com/GUELORD-MWENDERWA/CONTROLE_ACCES_CAPTEUR_BIOMETRIQUE) · ESP32, ESPAsyncWebServer
 
-```
-┌───────────────────────────────────────────┐
-│   SENSORS & HARDWARE                       │
-│   RFID, biometrics, temperature, RF 433MHz │
-└───────────────────┬─────────────────────────┘
-                    │
-┌───────────────────▼─────────────────────────┐
-│   EMBEDDED FIRMWARE (Arduino / ESP32)       │
-│   signal processing, real-time control      │
-└───────────────────┬─────────────────────────┘
-                    │
-┌───────────────────▼─────────────────────────┐
-│   COMMUNICATION                             │
-│   WiFi, RF 433MHz, Serial, Web API          │
-└───────────────────┬─────────────────────────┘
-                    │
-┌───────────────────▼─────────────────────────┐
-│   BACKEND & DATA PROCESSING                 │
-│   Python, Django, web interface, database   │
-└───────────────────┬─────────────────────────┘
-                    │
-┌───────────────────▼─────────────────────────┐
-│   MONITORING & INTELLIGENCE                 │
-│   dashboards, alerts, AI analytics          │
-└───────────────────────────────────────────────┘
-```
+Fingerprint enrollment and identification with a REST API, a web dashboard served from SPIFFS, a queued serial command interface, and local LCD, LED and buzzer feedback.
+
+### Geometric Shape Recognition
+[PROJET-TUTORE-LSI-IA-L1](https://github.com/GUELORD-MWENDERWA/PROJET-TUTORE-LSI-IA-L1) · Python, OpenCV, scikit-learn, PyQt5
+
+Classical computer vision pipeline classifying seven shapes: synthetic data generation, contour-based feature engineering with Hu moments, Random Forest classifier, evaluation and a desktop application. Includes ten guided exercises.
+
+### 433 MHz RF Remote Control
+[Transmitter](https://github.com/GUELORD-MWENDERWA/emeteur_433mhz_rf-interrupteur_4_pos_arduino_code) · [Receiver](https://github.com/GUELORD-MWENDERWA/recepteur_433mhz_rf-interrupteur_4_pos_arduino_code) · Arduino, RadioHead
+
+Four-channel remote with sequence-numbered frames, burst retransmission and duplicate suppression. The receiver maps buttons to relays with toggle, momentary and timed modes.
 
 ---
 
-## GitHub Stats
+## Teaching material
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guelord-mwenderwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guelord-mwenderwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## Highlights
-
-- Design of complete embedded systems (hardware + firmware)
-- Multi-sensor integration with real-time processing
-- Implementation of security protocols (RFID, biometrics)
-- Development of monitoring and control interfaces
-- Academic and professional AI/ML projects
+| Course | Content |
+| --- | --- |
+| [FORMATION-PROGRAMMATION-EMBARQUER](https://github.com/GUELORD-MWENDERWA/FORMATION-PROGRAMMATION-EMBARQUER) | Embedded C++ fundamentals on Arduino, one concept per exercise |
+| [FORMATION-PYTHON-DJANGO](https://github.com/GUELORD-MWENDERWA/FORMATION-PYTHON-DJANGO) | Full-stack path from HTML and CSS to a deployed Django application |
 
 ---
 
-**Last Updated**: August 2026
+## Professional work
+
+I build and maintain private business platforms for organisations in the region: monorepo applications with a React and TypeScript front end, an Express and Prisma API on PostgreSQL, role-based access control, client portals, PDF reporting and real-time updates. These repositories are private.
+
+---
+
+## How I work
+
+- **Hardware and software designed together**: pin maps, protocols and data models are specified before code is written.
+- **Explicit state**: firmware is built around state machines and non-blocking loops rather than delays.
+- **Documented interfaces**: every device that talks to a server ships with its protocol or API reference.
+- **Production habits in small projects**: environment-based configuration, migrations, reproducible builds.
+
+---
+
+## Tech stack
+
+**Embedded**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+
+**Backend and web**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Machine learning**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Tooling**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+---
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guelord-mwenderwa&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guelord-mwenderwa&theme=default&hide_border=true&layout=compact&langs_count=8" alt="Most used languages" />
+</p>
