@@ -33,7 +33,7 @@ I publish my work as tested, documented open source, and I teach embedded progra
 
 ## Live platforms
 
-Production web platforms I design, build and run for organisations in the DR Congo. Each one is presented through its live site.
+Production web platforms I design, build and run in the DR Congo.
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ School management platform for schools in the DR Congo, designed with a technica
 <a href="https://afronova-web.vercel.app/"><img src="assets/afronova.jpg" alt="Afronova website"></a>
 
 ### [Afronova](https://afronova-web.vercel.app/)
-Bilingual website of a Goma technology company (networks, software, electronics, energy, cloud), backed by an internal business application and a client portal.
+DTMS, a Goma technology company (networks, software, electronics, energy), became Afronova. I rebuilt its platform in TypeScript: a bilingual website, an internal business application and a client portal.
 
 `React` `TypeScript` `Express` `Prisma` `PostgreSQL`
 
@@ -67,7 +67,7 @@ Bilingual website of a Goma technology company (networks, software, electronics,
 <a href="https://dtms.site/"><img src="assets/dtms.jpg" alt="DTMS website"></a>
 
 ### [DTMS: Dynamic Technology Multi Services](https://dtms.site/)
-Public website, member area and training portal for a company working in IT, telecommunications, electronics and electrical installations, running on modules for staff, projects, clients, operations and finance.
+The first generation of the same company's platform, still online: public website, member area and training portal on Firebase, with modules for staff, projects, clients, operations and finance.
 
 `Firebase` `Firestore` `JavaScript` `Supabase`
 
