@@ -24,8 +24,59 @@ I publish my work as tested, documented open source, and I teach embedded progra
 
 **Currently**
 - Completing the second year of the AI Licence at ISIG Goma
+- Building and running Mwangaza School, a school management platform for the DR Congo (Django, React, offline-first)
 - Building business platforms in TypeScript (React, Express, Prisma, PostgreSQL)
 - Bringing machine learning onto microcontrollers for predictive maintenance
+
+---
+
+## Live platforms
+
+Production web platforms I design, build and run for organisations in the DR Congo. Each one is presented through its live site.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://mwangazaschool.com/"><img src="assets/mwangaza.jpg" alt="Mwangaza School website"></a>
+
+</td>
+<td width="50%" valign="top">
+
+### [Mwangaza School](https://mwangazaschool.com/)
+School management platform for schools in the DR Congo, designed with a technical school in Goma. Students and families, fees in US dollars and Congolese francs, a cash desk that prints receipts and keeps working without internet, unpaid-fee follow-up, grades and report cards, and a portal where parents follow payments on their phone.
+
+`Django` `PostgreSQL` `React` `TypeScript` `Offline-first PWA` `Docker` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://afronova-web.vercel.app/"><img src="assets/afronova.jpg" alt="Afronova website"></a>
+
+### [Afronova](https://afronova-web.vercel.app/)
+Bilingual website of a Goma technology company (networks, software, electronics, energy, cloud), backed by an internal business application and a client portal.
+
+`React` `TypeScript` `Express` `Prisma` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://dtms.site/"><img src="assets/dtms.jpg" alt="DTMS website"></a>
+
+### [DTMS: Dynamic Technology Multi Services](https://dtms.site/)
+Public website, member area and training portal for a company working in IT, telecommunications, electronics and electrical installations, running on modules for staff, projects, clients, operations and finance.
+
+`Firebase` `Firestore` `JavaScript` `Supabase`
+
+</td>
+</tr>
+</table>
+
+**[ESP32 sensor dashboard](https://domotiqueesp32-6d6d2.web.app/)**: authenticated web app that displays live readings sent by an ESP32 to the Firebase Realtime Database.
+
+These platforms share the same engineering standards: role-based access control, money handled in two currencies, audit trails, printable documents, responsive interfaces designed from mockups at phone and desktop widths, and linting, strict typing, automated tests and CI.
 
 ---
 
@@ -87,41 +138,6 @@ Linear models, CART trees, k-NN, k-means, PCA and a multilayer perceptron with h
 </td>
 </tr>
 </table>
-
----
-
-## Live platforms
-
-Production web platforms I design and maintain for organisations in the region. The source code is private; the sites are public.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://afronova-web.vercel.app/"><img src="assets/afronova.jpg" alt="Afronova website"></a>
-
-### [Afronova](https://afronova-web.vercel.app/)
-Bilingual corporate website with a member area, backed by an internal business application and a client portal.
-
-`React` `TypeScript` `Express` `Prisma` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://dtms.site/"><img src="assets/dtms.jpg" alt="DTMS website"></a>
-
-### [DTMS: Dynamic Technology Multi Services](https://dtms.site/)
-Public website, member area and training portal for a company working in IT, telecommunications, electronics and electrical installations. It runs on modules for staff, projects, clients, operations and finance.
-
-`Firebase` `Firestore` `JavaScript` `React` `Node.js`
-
-</td>
-</tr>
-</table>
-
-**[ESP32 sensor dashboard](https://domotiqueesp32-6d6d2.web.app/)**: authenticated web app that displays live readings sent by an ESP32 to the Firebase Realtime Database.
-
-These platforms are TypeScript or JavaScript codebases with role-based access control, client portals, cash and contribution management, PDF reporting and real-time updates. They are maintained with linting, strict typing, automated tests and CI.
 
 ---
 
@@ -201,7 +217,7 @@ Each project implements its subject from first principles, ships with a test sui
 | Mathematics | Numerical analysis, statistics and hypothesis testing, linear algebra |
 | Backend | Django, Django REST Framework, Node.js, Express, Prisma, REST, JWT |
 | Front end | React, TypeScript, Vite, Tailwind CSS, HTML, CSS, JavaScript |
-| Data and infrastructure | PostgreSQL, SQLite, Firebase, relational modelling, Git, GitHub Actions, Linux, Render |
+| Data and infrastructure | PostgreSQL, SQLite, Redis, Firebase, Supabase, relational modelling, Docker, Caddy, AWS Lightsail, Render, Vercel, Git, GitHub Actions, Linux |
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
@@ -217,6 +233,7 @@ Each project implements its subject from first principles, ships with a test sui
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
