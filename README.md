@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://guelord-mwenderwa.github.io/"><img src="https://img.shields.io/badge/Portfolio-guelord--mwenderwa.github.io-A64B1C?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/guelord-mwenderwa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:guelsmwenderwa@gmail.com"><img src="https://img.shields.io/badge/Email-guelsmwenderwa%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open_to-collaboration-2ea44f?style=flat-square" alt="Open to collaboration">
@@ -20,7 +21,7 @@ I build systems end to end, from the sensor to the decision. That covers the cir
 
 My training combines both sides. I studied general electronics at a technical institute, and I am now completing a Licence in Computer Science specialised in Artificial Intelligence. My work sits where the two meet: access control, energy monitoring, building automation, predictive maintenance and business platforms.
 
-I publish my work as tested, documented open source, and I teach embedded programming and full-stack web development.
+I publish my work as tested, documented open source, and I teach embedded programming and full-stack web development. Selected work, in English and French: **[guelord-mwenderwa.github.io](https://guelord-mwenderwa.github.io/)**.
 
 **Currently**
 - Completing the second year of the AI Licence at ISIG Goma
