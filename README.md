@@ -142,6 +142,14 @@ Linear models, CART trees, k-NN, k-means, PCA and a multilayer perceptron with h
 
 ---
 
+## Contributions to other projects
+
+| Project | Pull request | Status |
+| --- | --- | --- |
+| [paulober/MicroPico](https://github.com/paulober/MicroPico), VS Code extension for MicroPython on the Raspberry Pi Pico | [Add a Hard Reset button to the status bar options](https://github.com/paulober/MicroPico/pull/368) | ![status](https://img.shields.io/github/pulls/detail/state/paulober/MicroPico/368?style=flat-square&label=PR) |
+
+---
+
 ## Open source libraries and tools
 
 Each project implements its subject from first principles, ships with a test suite and continuous integration, and documents what has and has not been validated. Python libraries install with `pip install git+https://github.com/GUELORD-MWENDERWA/<repo>.git`, and each release provides ready-to-use files: Python wheels, firmware images to flash, or the SQL scripts.
